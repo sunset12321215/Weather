@@ -84,6 +84,8 @@ class ViewController: UIViewController ,UICollectionViewDelegate,UICollectionVie
      
         TableView.dataSource = self
         TableView.delegate = self
+        
+    
     }
     
 
